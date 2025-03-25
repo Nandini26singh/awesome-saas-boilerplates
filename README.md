@@ -24,6 +24,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - Launchnow [https://www.launchnow.pro/](https://www.launchnow.pro/)
 - SYNDROM [https://syndrom.io/](https://syndrom.io/)
+- JetShip Next.js Starter Kit [https://demos.themeselection.com/jetship-nextjs-starter-kit](https://demos.themeselection.com/jetship-nextjs-starter-kit)
 
 ## Node.js
 
